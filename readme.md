@@ -18,7 +18,7 @@ Desarrollado con [Visual Studio Code](https://code.visualstudio.com/) y [Platfor
     
 ## [ESQUEMAS](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191373/tree/master/Esquemas)
 
-## [MANUAL](https://github.com/PatricioCoronado/Base-SPM-Arduino-DUE/blob/V1_3/ficheros/Manual.pdf)
+## [MANUAL](https://github.com/SEGAINVEX-ELECTRONICA/Base_SPM_V3/blob/main/Manual/Manual_Base_SPM_V3.pdf)
 ### 
 ## IMAGENES DEL PROYECTO
 ###
