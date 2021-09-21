@@ -16,7 +16,7 @@ Desarrollado en [Java](https://www.java.com/es/) con [Eclipase](https://www.ecli
 ## [FIRMWARE Arduino DUE](https://github.com/PatricioCoronado/Base-SPM-Arduino-DUE)
 Desarrollado con [Visual Studio Code](https://code.visualstudio.com/) y [PlatformIO](https://platformio.org/)
     
-## [ESQUEMAS](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191373/tree/master/Esquemas)
+## [ESQUEMAS](https://github.com/SEGAINVEX-ELECTRONICA/Base_SPM_V3/tree/main/Esquemas)
 
 ## [MANUAL](https://github.com/SEGAINVEX-ELECTRONICA/Base_SPM_V3/blob/main/Manual/Manual_Base_SPM_V3.pdf)
 ### 
