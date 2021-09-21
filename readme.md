@@ -25,4 +25,4 @@ Desarrollado con [Visual Studio Code](https://code.visualstudio.com/) y [Platfor
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191373/blob/master/Imagenes/BaseSPM_20200148_3.jpg "equipo")
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191373/blob/master/Imagenes/BaseSPM_20200148_4.jpg "interior")
 
-###### publicado desde "D:\Proyectos\Base-SPM-3.1"
+###### publicado desde "D:\Proyectos\Base_SPM_V3_1"
